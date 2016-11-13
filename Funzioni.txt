@@ -1,0 +1,29 @@
+GENERALI:
+-disinstallazione (e installazione)
+-aggiornamenti
+
+ACCOUNT:
+-registrazione nuovo utente (tramite mail/facebook/google)
+-login utente esistente (tramite mail/facebook/google,anche da altro device)
+-logout (con cancellazione dati locali)
+-password/ID smarriti
+
+SPECIFICHE:
+-tutorial (primo accesso)
+-aggiungi/modifica/rimuovi casa (coordinate e/o indirizzo)
+-aggiungi/modifica/rimuovi lavoro (nome e/o coordinate e/o indirizzo)
+-aggiungi/modifica/rimuovi tratta (luoghi + orari(settimanale/da calendario))
+-aggiungi/modifica/rimuovi veicolo (posti, carburante, targa(?))
+-ricerca passaggio/compatibilità con le tratte inserite (e visualizza,anche con info aggiuntive)
+-contatta viaggiatori compatibili (in-app o esterno)
+-salva passaggi/tratte compatibili
+-visualizzag/gestisci appuntamenti (conferma, disdetta)
+-promemoria viaggio (sveglia, con eventuale richiesta di conferma)
+-visualizza/imposta sveglie(orario, tempo prima dell'appuntamento e/o modalità(grafica e/o sonora))
+
+SPECIFICHE(passeggero):
+-segnala assenza (mancato appuntamento)
+-cerca alternativa ad assenza pilota (ricerca taxi,bus,altro passaggio (?))
+
+SPECIFICHE(pilota):
+-segnala problema (mancato appuntamento)
