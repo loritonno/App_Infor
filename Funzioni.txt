@@ -20,6 +20,7 @@ SPECIFICHE:
 -visualizzag/gestisci appuntamenti (conferma, disdetta)
 -promemoria viaggio (sveglia, con eventuale richiesta di conferma)
 -visualizza/imposta sveglie(orario, tempo prima dell'appuntamento e/o modalità(grafica e/o sonora))
+-autorileva tratta tramite GPS (oraio, luoghi:  casa/e, lavoro/i, eventuali case/lavoro di altri utenti)
 
 SPECIFICHE(passeggero):
 -segnala assenza (mancato appuntamento)
